@@ -1,0 +1,56 @@
+body{
+    background-image: url(https://www.educationalappstore.com/images/best-apps-for-education.jpg);
+    background-size: cover;
+    margin: 0px;
+}
+ul{
+    list-style-type: none;
+    background-color: black;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    
+}
+li{
+    float:left;
+}
+li a{
+    display: block;
+    color: white;
+    padding: 18px 16px;
+    font-size: 18px;
+    font-family: monospace bold;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: red;
+    color:black;
+}
+h1{
+    font-size: 50px;
+    font-family: monospace;
+    text-align: center;
+}
+table{
+    margin-left: 550px;
+    font-size: 25px;
+    background-color: black;
+    color:white;
+    font-family: fantasy;
+    
+}
+.button {
+    background-color: black;
+    border:2px solid color:white;
+    color: white;
+    padding: 15px 32px;
+    display:inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+     margin-left: 630px;
+     border-radius: 10px;
+}
+.button:hover{
+    background-color: red;
+    color: black;

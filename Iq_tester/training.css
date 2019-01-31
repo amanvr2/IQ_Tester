@@ -1,0 +1,57 @@
+body{
+    background-image: url(https://www.franchiseindia.com/uploads/content/edu/art/education-858cc07046.jpg);
+    background-size: cover;
+    
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+    font-family: monospace;
+    text-align:center;
+    color:black;
+
+}
+h2{
+    font-size: 35px;
+    font-family: serif;
+}
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color:black;
+    background-size:120%;
+    
+    
+}
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 18px 16px;
+    text-decoration: none;
+    font-family: monospace;
+    font-size: 18px;
+    font-family: bold;
+}
+
+li a:hover {
+    background-color: red;
+    color:black;
+    
+}
+
+
+p{
+    font-size: 25px;
+    text-align: left;
+    margin right: 40px;
+    background-color: aquamarine;
+    font-family: cursive;
+    
+}
